@@ -1,0 +1,10 @@
+Button Map: 
+R = Select/View (9)
+ZR = Right Trigger (8)
++ (Plus) = Start/Menu (10)
+A = A (1)
+Y = Y (4)
+B = X (3)
+X = B (2)
+SR = Right Bumper (6)
+SL = Left Bumper (5)

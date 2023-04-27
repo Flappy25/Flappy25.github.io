@@ -1,6 +1,6 @@
 (function(Scratch) {
   'use strict';
-  const blockIconURI = 'https://flappy25.github.io/BunnyIcon1x1.png';
+  const blockIconURL = 'https://flappy25.github.io/BunnyIcon1x1.png';
 
   var vars = {};
   vars['variables'] = {};

@@ -1,5 +1,5 @@
 // Original extension by @LilyMakesThings
-
+//
 (function (Scratch) {
   'use strict';
 
